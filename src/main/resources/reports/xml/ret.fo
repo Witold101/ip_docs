@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
+
+        <fo:layout-master-set>
+            <fo:simple-page-master master-name="spm"
+                                   page-height="29.7cm"
+                                   page-width="21cm"
+                                   margin-top="1cm"
+                                   margin-bottom="1cm"
+                                   margin-left="1cm"
+                                   margin-right="1cm">
+                <fo:region-body/>
+            </fo:simple-page-master>
+        </fo:layout-master-set>
+        <fo:page-sequence master-reference="spm">
+            <fo:flow flow-name="xsl-region-body">
+                <fo:block font-weight="bold" font-size="16pt" font-family="sans-serif" line-height="24pt"
+                          space-after.optimum="15pt" text-align="center" padding-top="3pt">
+                    Credit card processing statement
+                </fo:block>
+                <fo:table table-layout="fixed" width="100%" border-collapse="separate">
+                    <fo:table-column column-width="60mm"/>
+                    <fo:table-column column-width="40mm"/>
+                    <fo:table-column column-width="50mm"/>
+                    <fo:table-column column-width="40mm"/>
+                    <fo:table-body>
+                        <fo:table-row>
+                            <fo:table-cell>
+                                <fo:block font-weight="bold"  font-size="10pt" font-family="serif">
+                                    Total payout:
+                                </fo:block>
+                            </fo:table-cell>
+                            <fo:table-cell>
+                                <fo:block font-weight="normal" font-size="10pt" font-family="serif">
+                                    $1000000
+                                </fo:block>
+                            </fo:table-cell>
+                            <fo:table-cell>
+                                <fo:block font-weight="bold"  font-size="10pt" font-family="serif">
+                                    Holder:
+                                </fo:block>
+                            </fo:table-cell>
+                            <fo:table-cell>
+                                <fo:block font-weight="normal" font-size="10pt" font-family="sans-serif">
+                                    Виталий Василюс
+                                </fo:block>
+                            </fo:table-cell>
+                        </fo:table-row>
+                    </fo:table-body>
+                </fo:table>
+            </fo:flow>
+        </fo:page-sequence>
+    </fo:root>

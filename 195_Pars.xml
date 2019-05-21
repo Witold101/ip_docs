@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<DOCUMENT>
+ <StatementBy>
+  <Account>BY15ABLT30131319693350010001</Account>
+  <CurrCode>933</CurrCode>
+  <AccountType>2</AccountType>
+  <AccName>Индивидуальный предприниматель Василюс Виталий Валенсасович</AccName>
+  <BIC>ABLTBY22</BIC>
+  <OpeningBalance>2013.45</OpeningBalance>
+  <OpeningBalanceNat>2013.45</OpeningBalanceNat>
+  <OpeningBalanceDate>27/09/2018</OpeningBalanceDate>
+  <ClientName>Индивидуальный предприниматель Василюс Виталий Валенсасович</ClientName>
+  <PrevRate>1</PrevRate>
+  <PrevMeasure>1</PrevMeasure>
+  <PrevRateDate>27/09/2018</PrevRateDate>
+  <FirstRate>1</FirstRate>
+  <FirstMeasure>1</FirstMeasure>
+  <FirstRateDate>01/10/2018</FirstRateDate>
+  <ClosingBalance>920.49</ClosingBalance>
+  <ClosingBalanceNat>920.49</ClosingBalanceNat>
+  <ClosingAvailableBalance>920.49</ClosingAvailableBalance>
+  <ClosingBalanceDate>28/12/2018</ClosingBalanceDate>
+  <Rate>1</Rate>
+  <CurMeasure>1</CurMeasure>
+  <RateDate>31/12/2018</RateDate>
+  <StatementDateTime>03/01/2019 11:56:39</StatementDateTime>
+  <AccountOfficialsCode/>
+  <ODDate>03/01/2019</ODDate>
+  <PrevODDate>02/01/2019</PrevODDate>
+  <DebetDocuments>
+   <DebetDocumentsRow>
+    <BankOfficials>Жданок Д.А.</BankOfficials>
+    <BankOfficialsCode>45</BankOfficialsCode>
+    <ValueDate>05/10/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>05/10/2018</DocumentDate>
+    <DocumentNumber>439695</DocumentNumber>
+    <DocumentType>12</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ЗАО &quot;АБСОЛЮТБАНК&quot;</Beneficiar>
+    <BeneficiarUNP>100331707</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY37ABLT81010898093350000021</BeneficiarAccount>
+    <Amount>15,00</Amount>
+    <AmountNat>15,00</AmountNat>
+    <OperType>6</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>Вознаграждение за пакетное обслуживание Индивидуальный предприниматель Василюс Виталий Валенсасович за период с 01.10.2018 по 31.10.2018. Согласно перечню вознаграждений Банка. Без НДС.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>NUL</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>05/10/2018 09:42:36</AcceptDate>
+    <DocRef>18066851</DocRef>
+    <SavedDocRef>56_16927037</SavedDocRef>
+    <DocFormType>6</DocFormType>
+    <OperFormType>46</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY37ABLT81010898093350000021</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>15</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>3</ChargesTypeVal>
+    <DocFormCode>56</DocFormCode>
+    <OperFormCode>63</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Горбачевская Л. С.</BankOfficials>
+    <BankOfficialsCode>55</BankOfficialsCode>
+    <ValueDate>05/10/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>05/10/2018</DocumentDate>
+    <DocumentNumber>4</DocumentNumber>
+    <DocumentType>5</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ГЛАВНОЕ УПРАВЛЕНИЕ МИНФИНА РБ ПО Г.МИНСКУ</Beneficiar>
+    <BeneficiarUNP>101530339</BeneficiarUNP>
+    <BeneficiarBankBIC>AKBBBY2X</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ОАО &quot;АСБ БЕЛАРУСБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY03AKBB36021010000710000000</BeneficiarAccount>
+    <Amount>134,05</Amount>
+    <AmountNat>134,05</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>13</PaymentUrgent>
+    <StatePay>01201</StatePay>
+    <ForWhomeUNP>0</ForWhomeUNP>
+    <ForWhomeStatePay/>
+    <Ground>НАЛОГ ПРИ УПРОЩЕННОЙ СИСТЕМЕ НАЛОГООБЛОЖЕНИЯ</Ground>
+    <GroundAdd/>
+    <GroundCode>503</GroundCode>
+    <AdditionalInfo/>
+    <GroundText>№ ПС ;</GroundText>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>05/10/2018 10:30:49</AcceptDate>
+    <DocRef>18068001</DocRef>
+    <SavedDocRef>36_16927838</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY03AKBB36021010000710000000</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>134.05</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Масалович Я.С.</BankOfficials>
+    <BankOfficialsCode>67</BankOfficialsCode>
+    <ValueDate>05/10/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>05/10/2018</DocumentDate>
+    <DocumentNumber>6</DocumentNumber>
+    <DocumentType>1</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ЗАО &quot;АБСОЛЮТБАНК&quot;</Beneficiar>
+    <BeneficiarUNP>100331707</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY77ABLT10110222093350000000</BeneficiarAccount>
+    <Amount>1000,00</Amount>
+    <AmountNat>1000,00</AmountNat>
+    <OperType>15</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP>0</ForWhomeUNP>
+    <ForWhomeStatePay/>
+    <Ground>Выдача наличных белорусских рублей согласно заявлению от 05/10/2018 № 2 на Доход от предпринимательской деятельности,</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>NUL</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>05/10/2018 11:05:11</AcceptDate>
+    <DocRef>18068440</DocRef>
+    <SavedDocRef>1605_1042112</SavedDocRef>
+    <DocFormType>0</DocFormType>
+    <OperFormType>0</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY77ABLT10110222093350000000</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>1000</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive>ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ ВАСИЛЮС ВИТАЛИЙ ВАЛЕНСАСОВИЧ через ВАСИЛЮС ВИТАЛИЙ ВАЛЕНСАСОВИЧ</DocTakeGive>
+    <BISSMsgRef/>
+    <ChargesTypeVal>3</ChargesTypeVal>
+    <DocFormCode>74</DocFormCode>
+    <OperFormCode>74</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Пашевич О. Л.</BankOfficials>
+    <BankOfficialsCode>53</BankOfficialsCode>
+    <ValueDate>05/10/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>05/10/2018</DocumentDate>
+    <DocumentNumber>440378</DocumentNumber>
+    <DocumentType>12</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ЗАО &quot;АБСОЛЮТБАНК&quot;</Beneficiar>
+    <BeneficiarUNP>100331707</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY62ABLT81010222093350000003</BeneficiarAccount>
+    <Amount>10,00</Amount>
+    <AmountNat>10,00</AmountNat>
+    <OperType>6</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>Вознаграждение за выдачу наличных денежных средств  согласно договора банковского счета и перечня вознаграждений. Без НДС. Плательщик Индивидуальный предприниматель Василюс Виталий Валенсасович.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>NUL</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>05/10/2018 11:28:08</AcceptDate>
+    <DocRef>18068810</DocRef>
+    <SavedDocRef>63_16928716</SavedDocRef>
+    <DocFormType>46</DocFormType>
+    <OperFormType>46</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY62ABLT81010222093350000003</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>10</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive>ООО &quot;МКТ-АВТО&quot; через СЫТИН ВЛАДИСЛАВ ВАСИЛЬЕВИЧ</DocTakeGive>
+    <BISSMsgRef/>
+    <ChargesTypeVal>3</ChargesTypeVal>
+    <DocFormCode>63</DocFormCode>
+    <OperFormCode>63</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Горбачевская Л. С.</BankOfficials>
+    <BankOfficialsCode>55</BankOfficialsCode>
+    <ValueDate>18/10/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>18/10/2018</DocumentDate>
+    <DocumentNumber>5</DocumentNumber>
+    <DocumentType>5</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ ВОЛКОВА НАТАЛЬЯ ВАСИЛЬЕВНА</Beneficiar>
+    <BeneficiarUNP>192693276</BeneficiarUNP>
+    <BeneficiarBankBIC>TECNBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ОАО &quot;ТЕХНОБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY97TECN30135077990160000000</BeneficiarAccount>
+    <Amount>110,00</Amount>
+    <AmountNat>110,00</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP>0</ForWhomeUNP>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА ОБУЧЕНИЕ ВАСИЛЮС ЕЛИЗАВЕТА</Ground>
+    <GroundAdd/>
+    <GroundCode>509</GroundCode>
+    <AdditionalInfo/>
+    <GroundText>№ ПС ;</GroundText>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>18/10/2018 10:16:25</AcceptDate>
+    <DocRef>18133875</DocRef>
+    <SavedDocRef>36_16983381</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY97TECN30135077990160000000</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>110.00</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Горбачевская Л. С.</BankOfficials>
+    <BankOfficialsCode>55</BankOfficialsCode>
+    <ValueDate>01/11/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>01/11/2018</DocumentDate>
+    <DocumentNumber>6</DocumentNumber>
+    <DocumentType>5</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;ЖИЛИЩНО-ЭКСПЛУАТАЦИОННАЯ СЛУЖБА  &quot;ИННАСТ&quot;</Beneficiar>
+    <BeneficiarUNP>190949846</BeneficiarUNP>
+    <BeneficiarBankBIC>BLBBBY2X</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ОАО &quot;БЕЛИНВЕСТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY94BLBB30120190949846001001</BeneficiarAccount>
+    <Amount>105,62</Amount>
+    <AmountNat>105,62</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP>0</ForWhomeUNP>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА КОМУНАЛЬНЫЕ УСЛУГИ СОГЛАСНО СЧЕТ-ФАКТУРЫ 612 ОТ 30 СЕНТЯБРЯ 2018 Г. В Т.Ч НДС 6,99 РУББЕЗ НДС</Ground>
+    <GroundAdd/>
+    <GroundCode>509</GroundCode>
+    <AdditionalInfo/>
+    <GroundText>№ ПС ;</GroundText>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>01/11/2018 14:50:12</AcceptDate>
+    <DocRef>18226192</DocRef>
+    <SavedDocRef>36_17061499</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY94BLBB30120190949846001001</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>105.62</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Каскова Ю. А.</BankOfficials>
+    <BankOfficialsCode>69</BankOfficialsCode>
+    <ValueDate>05/11/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>05/11/2018</DocumentDate>
+    <DocumentNumber>443720</DocumentNumber>
+    <DocumentType>12</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ЗАО &quot;АБСОЛЮТБАНК&quot;</Beneficiar>
+    <BeneficiarUNP>100331707</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY37ABLT81010898093350000021</BeneficiarAccount>
+    <Amount>15,00</Amount>
+    <AmountNat>15,00</AmountNat>
+    <OperType>6</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>Вознаграждение за пакетное обслуживание Индивидуальный предприниматель Василюс Виталий Валенсасович за период с 01.11.2018 по 30.11.2018. Согласно перечню вознаграждений Банка. Без НДС.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>NUL</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>05/11/2018 11:30:57</AcceptDate>
+    <DocRef>18238232</DocRef>
+    <SavedDocRef>56_17072404</SavedDocRef>
+    <DocFormType>6</DocFormType>
+    <OperFormType>46</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY37ABLT81010898093350000021</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>15</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>3</ChargesTypeVal>
+    <DocFormCode>56</DocFormCode>
+    <OperFormCode>63</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Горбачевская Л. С.</BankOfficials>
+    <BankOfficialsCode>55</BankOfficialsCode>
+    <ValueDate>20/11/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>20/11/2018</DocumentDate>
+    <DocumentNumber>7</DocumentNumber>
+    <DocumentType>5</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;ЖИЛИЩНО-ЭКСПЛУАТАЦИОННАЯ СЛУЖБА  &quot;ИННАСТ&quot;</Beneficiar>
+    <BeneficiarUNP>190949846</BeneficiarUNP>
+    <BeneficiarBankBIC>BLBBBY2X</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ОАО &quot;БЕЛИНВЕСТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY94BLBB30120190949846001001</BeneficiarAccount>
+    <Amount>160,48</Amount>
+    <AmountNat>160,48</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP>0</ForWhomeUNP>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА КОМУНАЛЬНЫЕ УСЛУГИ СОГЛАСНО СЧЕТ-ФАКТУРЫ 687 ОТ 31 ОКТЯБРЯ 2018 Г. В Т.Ч НДС 10.46 РУББЕЗ НДС</Ground>
+    <GroundAdd/>
+    <GroundCode>509</GroundCode>
+    <AdditionalInfo/>
+    <GroundText>№ ПС ;</GroundText>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>20/11/2018 15:40:58</AcceptDate>
+    <DocRef>18317251</DocRef>
+    <SavedDocRef>36_17138258</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY94BLBB30120190949846001001</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>160.48</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Горбачевская Л. С.</BankOfficials>
+    <BankOfficialsCode>55</BankOfficialsCode>
+    <ValueDate>23/11/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>22/11/2018</DocumentDate>
+    <DocumentNumber>8</DocumentNumber>
+    <DocumentType>5</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ ВОЛКОВА НАТАЛЬЯ ВАСИЛЬЕВНА</Beneficiar>
+    <BeneficiarUNP>192693276</BeneficiarUNP>
+    <BeneficiarBankBIC>TECNBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ОАО &quot;ТЕХНОБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY97TECN30135077990160000000</BeneficiarAccount>
+    <Amount>110,00</Amount>
+    <AmountNat>110,00</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP>0</ForWhomeUNP>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА ОБУЧЕНИЕ ВАСИЛЮС ЕЛИЗАВЕТА</Ground>
+    <GroundAdd/>
+    <GroundCode>509</GroundCode>
+    <AdditionalInfo/>
+    <GroundText>№ ПС ;</GroundText>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>23/11/2018 09:21:54</AcceptDate>
+    <DocRef>18332760</DocRef>
+    <SavedDocRef>36_17150676</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY97TECN30135077990160000000</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>110.00</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Кармалина Л. В.</BankOfficials>
+    <BankOfficialsCode>66</BankOfficialsCode>
+    <ValueDate>23/11/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>23/11/2018</DocumentDate>
+    <DocumentNumber>15</DocumentNumber>
+    <DocumentType>1</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ЗАО &quot;АБСОЛЮТБАНК&quot;</Beneficiar>
+    <BeneficiarUNP>100331707</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY77ABLT10110222093350000000</BeneficiarAccount>
+    <Amount>1000,00</Amount>
+    <AmountNat>1000,00</AmountNat>
+    <OperType>15</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP>0</ForWhomeUNP>
+    <ForWhomeStatePay/>
+    <Ground>Выдача наличных белорусских рублей согласно заявлению от 23/11/2018 № 1 на Доход от предпринимательской деятельности,</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>NUL</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>23/11/2018 14:25:55</AcceptDate>
+    <DocRef>18336786</DocRef>
+    <SavedDocRef>1605_1065844</SavedDocRef>
+    <DocFormType>0</DocFormType>
+    <OperFormType>0</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY77ABLT10110222093350000000</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>1000</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive>ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ ВАСИЛЮС ВИТАЛИЙ ВАЛЕНСАСОВИЧ через ВАСИЛЮС ВИТАЛИЙ ВАЛЕНСАСОВИЧ</DocTakeGive>
+    <BISSMsgRef/>
+    <ChargesTypeVal>3</ChargesTypeVal>
+    <DocFormCode>74</DocFormCode>
+    <OperFormCode>74</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>23/11/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>23/11/2018</DocumentDate>
+    <DocumentNumber>445767</DocumentNumber>
+    <DocumentType>12</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ЗАО &quot;АБСОЛЮТБАНК&quot;</Beneficiar>
+    <BeneficiarUNP>100331707</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY62ABLT81010222093350000003</BeneficiarAccount>
+    <Amount>10,00</Amount>
+    <AmountNat>10,00</AmountNat>
+    <OperType>6</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>Вознаграждение за выдачу наличных денежных средств  согласно договора банковского счета и перечня вознаграждений. Без НДС. Плательщик Индивидуальный предприниматель Василюс Виталий Валенсасович.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>NUL</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>23/11/2018 14:39:59</AcceptDate>
+    <DocRef>18336945</DocRef>
+    <SavedDocRef>63_17154863</SavedDocRef>
+    <DocFormType>46</DocFormType>
+    <OperFormType>46</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY62ABLT81010222093350000003</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>10</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>3</ChargesTypeVal>
+    <DocFormCode>63</DocFormCode>
+    <OperFormCode>63</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Жданок Д.А.</BankOfficials>
+    <BankOfficialsCode>45</BankOfficialsCode>
+    <ValueDate>05/12/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>05/12/2018</DocumentDate>
+    <DocumentNumber>446874</DocumentNumber>
+    <DocumentType>12</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ЗАО &quot;АБСОЛЮТБАНК&quot;</Beneficiar>
+    <BeneficiarUNP>100331707</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY37ABLT81010898093350000021</BeneficiarAccount>
+    <Amount>15,00</Amount>
+    <AmountNat>15,00</AmountNat>
+    <OperType>6</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>Вознаграждение за пакетное обслуживание Индивидуальный предприниматель Василюс Виталий Валенсасович за период с 01.12.2018 по 31.12.2018. Согласно перечню вознаграждений Банка. Без НДС.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>NUL</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>05/12/2018 09:45:18</AcceptDate>
+    <DocRef>18393173</DocRef>
+    <SavedDocRef>56_17202519</SavedDocRef>
+    <DocFormType>6</DocFormType>
+    <OperFormType>46</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY37ABLT81010898093350000021</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>15</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>3</ChargesTypeVal>
+    <DocFormCode>56</DocFormCode>
+    <OperFormCode>63</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>11/12/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>11/12/2018</DocumentDate>
+    <DocumentNumber>9</DocumentNumber>
+    <DocumentType>5</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ ВОЛКОВА НАТАЛЬЯ ВАСИЛЬЕВНА</Beneficiar>
+    <BeneficiarUNP>192693276</BeneficiarUNP>
+    <BeneficiarBankBIC>TECNBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ОАО &quot;ТЕХНОБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY97TECN30135077990160000000</BeneficiarAccount>
+    <Amount>110,00</Amount>
+    <AmountNat>110,00</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP>0</ForWhomeUNP>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА ОБУЧЕНИЕ ВАСИЛЮС ЕЛИЗАВЕТА</Ground>
+    <GroundAdd/>
+    <GroundCode>509</GroundCode>
+    <AdditionalInfo/>
+    <GroundText>№ ПС ;</GroundText>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>11/12/2018 12:57:38</AcceptDate>
+    <DocRef>18425666</DocRef>
+    <SavedDocRef>36_17229120</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY97TECN30135077990160000000</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>110.00</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+   <DebetDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>28/12/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>28/12/2018</DocumentDate>
+    <DocumentNumber>10</DocumentNumber>
+    <DocumentType>5</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>Индивидуальный предприниматель Василюс Виталий Валенсасович</Payer>
+    <PayerUNP>193114436</PayerUNP>
+    <PayerBankBIC>ABLTBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</PayerBankName>
+    <PayerAccount>BY15ABLT30131319693350010001</PayerAccount>
+    <Beneficiar>УНИТАРНОЕ ПРЕДПРИЯТИЕ &quot;ЖИЛИЩНО-ЭКСПЛУАТАЦИОННАЯ СЛУЖБА  &quot;ИННАСТ&quot;</Beneficiar>
+    <BeneficiarUNP>190949846</BeneficiarUNP>
+    <BeneficiarBankBIC>BLBBBY2X</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ОАО &quot;БЕЛИНВЕСТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY94BLBB30120190949846001001</BeneficiarAccount>
+    <Amount>242,74</Amount>
+    <AmountNat>242,74</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP>0</ForWhomeUNP>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА КОМУНАЛЬНЫЕ УСЛУГИ СОГЛАСНО СЧЕТ-ФАКТУРЫ 764 ОТ 30 НОЯБРЯ 2018 Г. В Т.Ч НДС 24.18 РУББЕЗ НДС</Ground>
+    <GroundAdd/>
+    <GroundCode>509</GroundCode>
+    <AdditionalInfo/>
+    <GroundText>№ ПС ;</GroundText>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>28/12/2018 13:09:20</AcceptDate>
+    <DocRef>18513277</DocRef>
+    <SavedDocRef>36_17303654</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY94BLBB30120190949846001001</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>242.74</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef/>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <MtAttrs/>
+    <Supplement/>
+    <Basis4UndisputedCharge/>
+    <MTDOCINFO/>
+   </DebetDocumentsRow>
+  </DebetDocuments>
+  <CreditDocuments>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>10/10/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>10/10/2018</DocumentDate>
+    <DocumentNumber>95</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ЧАСТНОЕ ТОРГОВОЕ УНИТАРНОЕ ПРЕДПРИЯ ТИЕ &quot;ВИЛТАСГРАНД&quot; Г. МИНСК, 220099, УЛ. БРЕСТСКАЯ, Д. 87, КРП. ПОМ. 1</Payer>
+    <PayerUNP>192225486</PayerUNP>
+    <PayerBankBIC>REDJBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;РРБ-БАНК&quot;</PayerBankName>
+    <PayerAccount>BY88REDJ30121008617010000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>58,50</Amount>
+    <AmountNat>58,50</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА АРЕНДЫ ЗА ОКТЯБРЬ МЕСЯЦ 2018Г. СОГЛАСНО ДОГОВОРА АРЕНДЫ НЕЖИЛОГО ПОМЕЩЕНИЯ 2 ОТ 01.08.2018Г.БЕЗ НДС.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>10/10/2018 14:19:39</AcceptDate>
+    <DocRef>18093473</DocRef>
+    <SavedDocRef>36_16948965</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY88REDJ30121008617010000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>58.5</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1010110000001301</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>22/10/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>22/10/2018</DocumentDate>
+    <DocumentNumber>102</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ЧАСТНОЕ ТОРГОВОЕ УНИТАРНОЕ ПРЕДПРИЯ ТИЕ &quot;ВИЛТАСГРАНД&quot; Г. МИНСК, 220099, УЛ. БРЕСТСКАЯ, Д. 87, КРП. ПОМ. 1</Payer>
+    <PayerUNP>192225486</PayerUNP>
+    <PayerBankBIC>REDJBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;РРБ-БАНК&quot;</PayerBankName>
+    <PayerAccount>BY88REDJ30121008617010000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>4,13</Amount>
+    <AmountNat>4,13</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ВОЗМЕЩЕНИЕ КОММУНАЛЬНЫХ УСЛУГ ЗА СЕНТЯБРЬ МЕСЯЦ 2018Г. СОГЛАСНО ДОГОВОРА АРЕНДЫ НЕЖИЛОГО ПОМЕЩЕНИЯ 2 ОТ 01.08.2018Г. АКТ 4 ОТ 30.09.2018Г.БЕЗ НДС.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>22/10/2018 11:28:41</AcceptDate>
+    <DocRef>18149853</DocRef>
+    <SavedDocRef>36_16996812</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY88REDJ30121008617010000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>4.13</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1022110000000553</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>29/10/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>29/10/2018</DocumentDate>
+    <DocumentNumber>716</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ООО &quot;ГОЛДКОВАГРО&quot;</Payer>
+    <PayerUNP>192980547</PayerUNP>
+    <PayerBankBIC>OLMPBY2X</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ОАО &quot;БЕЛГАЗПРОМБАНК&quot;</PayerBankName>
+    <PayerAccount>BY21OLMP30120001098050000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>101,49</Amount>
+    <AmountNat>101,49</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА КОММУНАЛЬНЫЕ УСЛУГИ СОГЛАСНО СЧЕТУ 1 ОТ 01 08 2018</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>29/10/2018 13:58:20</AcceptDate>
+    <DocRef>18203740</DocRef>
+    <SavedDocRef>36_17042864</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY21OLMP30120001098050000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>101.49</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1810297420566203</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>29/10/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>29/10/2018</DocumentDate>
+    <DocumentNumber>714</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ООО &quot;ГОЛДКОВАГРО&quot;</Payer>
+    <PayerUNP>192980547</PayerUNP>
+    <PayerBankBIC>OLMPBY2X</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ОАО &quot;БЕЛГАЗПРОМБАНК&quot;</PayerBankName>
+    <PayerAccount>BY21OLMP30120001098050000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>148,26</Amount>
+    <AmountNat>148,26</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА КОММУНАЛЬНЫЕ УСЛУГИ СОГЛАСНО СЧЕТУ 1 ОТ 31 08 2018</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>29/10/2018 13:58:20</AcceptDate>
+    <DocRef>18203741</DocRef>
+    <SavedDocRef>36_17042865</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY21OLMP30120001098050000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>148.26</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1810297420566204</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>01/11/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>01/11/2018</DocumentDate>
+    <DocumentNumber>732</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ООО &quot;ГОЛДКОВАГРО&quot;</Payer>
+    <PayerUNP>192980547</PayerUNP>
+    <PayerBankBIC>OLMPBY2X</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ОАО &quot;БЕЛГАЗПРОМБАНК&quot;</PayerBankName>
+    <PayerAccount>BY21OLMP30120001098050000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>1252,00</Amount>
+    <AmountNat>1252,00</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА АРЕНДУ ПОМЕЩЕНИЯ СОГЛАСНО ДОГОВОРУ НОМЕР 1 ОТ 01 АВГУСТА 2018</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>01/11/2018 13:08:03</AcceptDate>
+    <DocRef>18225269</DocRef>
+    <SavedDocRef>36_17060859</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY21OLMP30120001098050000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>1252</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1811017420664457</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>09/11/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>09/11/2018</DocumentDate>
+    <DocumentNumber>107</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ЧАСТНОЕ ТОРГОВОЕ УНИТАРНОЕ ПРЕДПРИЯ ТИЕ &quot;ВИЛТАСГРАНД&quot; Г. МИНСК, 220099, УЛ. БРЕСТСКАЯ, Д. 87, КРП. ПОМ. 1</Payer>
+    <PayerUNP>192225486</PayerUNP>
+    <PayerBankBIC>REDJBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;РРБ-БАНК&quot;</PayerBankName>
+    <PayerAccount>BY88REDJ30121008617010000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>58,50</Amount>
+    <AmountNat>58,50</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА АРЕНДЫ ЗА НОЯБРЬ МЕСЯЦ 2018Г. СОГЛАСНО ДОГОВОРА АРЕНДЫ НЕЖИЛОГО ПОМЕЩЕНИЯ 2 ОТ 01.08.2018Г.БЕЗ НДС.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>09/11/2018 15:19:50</AcceptDate>
+    <DocRef>18264027</DocRef>
+    <SavedDocRef>36_17093441</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY88REDJ30121008617010000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>58.5</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1109110000001645</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>22/11/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>22/11/2018</DocumentDate>
+    <DocumentNumber>768</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ООО &quot;ГОЛДКОВАГРО&quot;</Payer>
+    <PayerUNP>192980547</PayerUNP>
+    <PayerBankBIC>OLMPBY2X</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ОАО &quot;БЕЛГАЗПРОМБАНК&quot;</PayerBankName>
+    <PayerAccount>BY21OLMP30120001098050000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>100,00</Amount>
+    <AmountNat>100,00</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА АРЕНДУ ПОМЕЩЕНИЯ</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>22/11/2018 14:40:22</AcceptDate>
+    <DocRef>18329424</DocRef>
+    <SavedDocRef>36_17148994</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY21OLMP30120001098050000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>100</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1811227420034822</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>28/11/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>28/11/2018</DocumentDate>
+    <DocumentNumber>117</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ЧАСТНОЕ ТОРГОВОЕ УНИТАРНОЕ ПРЕДПРИЯ ТИЕ &quot;ВИЛТАСГРАНД&quot; Г. МИНСК, 220099, УЛ. БРЕСТСКАЯ, Д. 87, КРП. ПОМ. 1</Payer>
+    <PayerUNP>192225486</PayerUNP>
+    <PayerBankBIC>REDJBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;РРБ-БАНК&quot;</PayerBankName>
+    <PayerAccount>BY88REDJ30121008617010000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>5,04</Amount>
+    <AmountNat>5,04</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ВОЗМЕЩЕНИЕ КОММУНАЛЬНЫХ УСЛУГ ЗА ОКТЯБРЬ МЕСЯЦ 2018Г. СОГЛАСНО ДОГОВОРА АРЕНДЫ НЕЖИЛОГО ПОМЕЩЕНИЯ 2 ОТ 01.08.2018Г. АКТ 6 ОТ 31.10.2018Г.БЕЗНДС.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>28/11/2018 12:28:26</AcceptDate>
+    <DocRef>18357906</DocRef>
+    <SavedDocRef>36_17172431</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY88REDJ30121008617010000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>5.04</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1128110000000601</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>05/12/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>05/12/2018</DocumentDate>
+    <DocumentNumber>784</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ООО &quot;ГОЛДКОВАГРО&quot;</Payer>
+    <PayerUNP>192980547</PayerUNP>
+    <PayerBankBIC>OLMPBY2X</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ОАО &quot;БЕЛГАЗПРОМБАНК&quot;</PayerBankName>
+    <PayerAccount>BY21OLMP30120001098050000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>150,00</Amount>
+    <AmountNat>150,00</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА ЗА АРЕНДУ ПОМЕЩЕНИЯ СОГЛАСНО ДОГОВОРУ НОМЕР 1 ОТ 01 АВГУСТА 2018</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>05/12/2018 09:44:56</AcceptDate>
+    <DocRef>18393061</DocRef>
+    <SavedDocRef>36_17203059</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY21OLMP30120001098050000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>150</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1812057420271406</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>06/12/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>06/12/2018</DocumentDate>
+    <DocumentNumber>118</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ЧАСТНОЕ ТОРГОВОЕ УНИТАРНОЕ ПРЕДПРИЯ ТИЕ &quot;ВИЛТАСГРАНД&quot; Г. МИНСК, 220099, УЛ. БРЕСТСКАЯ, Д. 87, КРП. ПОМ. 1</Payer>
+    <PayerUNP>192225486</PayerUNP>
+    <PayerBankBIC>REDJBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;РРБ-БАНК&quot;</PayerBankName>
+    <PayerAccount>BY88REDJ30121008617010000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>58,50</Amount>
+    <AmountNat>58,50</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ОПЛАТА АРЕНДЫ ЗА ДЕКАБРЬ МЕСЯЦ 2018Г. СОГЛАСНО ДОГОВОРА АРЕНДЫ НЕЖИЛОГО ПОМЕЩЕНИЯ 2 ОТ 01.08.2018Г.БЕЗ НДС.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>06/12/2018 14:08:34</AcceptDate>
+    <DocRef>18403413</DocRef>
+    <SavedDocRef>36_17210879</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY88REDJ30121008617010000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>58.5</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1206110000000930</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+   <CreditDocumentsRow>
+    <BankOfficials>Федорович Е. И.</BankOfficials>
+    <BankOfficialsCode/>
+    <ValueDate>19/12/2018</ValueDate>
+    <NoteFromBank/>
+    <DocumentDate>19/12/2018</DocumentDate>
+    <DocumentNumber>125</DocumentNumber>
+    <DocumentType>3</DocumentType>
+    <CurrCode>933</CurrCode>
+    <CurrRate>1,00000000</CurrRate>
+    <Payer>ЧАСТНОЕ ТОРГОВОЕ УНИТАРНОЕ ПРЕДПРИЯ ТИЕ &quot;ВИЛТАСГРАНД&quot; Г. МИНСК, 220099, УЛ. БРЕСТСКАЯ, Д. 87, КРП. ПОМ. 1</Payer>
+    <PayerUNP>192225486</PayerUNP>
+    <PayerBankBIC>REDJBY22</PayerBankBIC>
+    <PayerBankName>Г.МИНСК,ЗАО &quot;РРБ-БАНК&quot;</PayerBankName>
+    <PayerAccount>BY88REDJ30121008617010000933</PayerAccount>
+    <Beneficiar>Индивидуальный предприниматель Василюс Виталий Валенсасович</Beneficiar>
+    <BeneficiarUNP>193114436</BeneficiarUNP>
+    <BeneficiarBankBIC>ABLTBY22</BeneficiarBankBIC>
+    <BeneficiarBankName>Г.МИНСК,ЗАО &quot;АБСОЛЮТБАНК&quot;</BeneficiarBankName>
+    <BeneficiarAccount>BY15ABLT30131319693350010001</BeneficiarAccount>
+    <Amount>8,51</Amount>
+    <AmountNat>8,51</AmountNat>
+    <OperType>1</OperType>
+    <PaymentUrgent>22</PaymentUrgent>
+    <StatePay/>
+    <ForWhomeUNP/>
+    <ForWhomeStatePay/>
+    <Ground>ВОЗМЕЩЕНИЕ КОММУНАЛЬНЫХ УСЛУГ ЗА НОЯБРЬ МЕСЯЦ 2018Г. СОГЛАСНО ДОГОВОРА АРЕНДЫ НЕЖИЛОГО ПОМЕЩЕНИЯ 2 ОТ 01.08.2018Г. АКТ 8 ОТ 30.11.2018Г.БЕЗ НДС.</Ground>
+    <GroundAdd/>
+    <GroundCode>0</GroundCode>
+    <AdditionalInfo/>
+    <GroundText/>
+    <CorrespBankBIC/>
+    <CorrespBankName/>
+    <CorrespBankCorrAccount/>
+    <ReceiverBankBIC/>
+    <ReceiverBankName/>
+    <ReceiverBankCorrAccount/>
+    <ChargesType>OUR</ChargesType>
+    <ChargeAccount/>
+    <IsResident>0</IsResident>
+    <AdvancePayment/>
+    <DateGoods/>
+    <PaymentType>0</PaymentType>
+    <PayDocByCode/>
+    <AcceptDate>19/12/2018 09:25:15</AcceptDate>
+    <DocRef>18466044</DocRef>
+    <SavedDocRef>36_17263439</SavedDocRef>
+    <DocFormType>1</DocFormType>
+    <OperFormType>1</OperFormType>
+    <AcceptType/>
+    <ClientAccNum>BY15ABLT30131319693350010001</ClientAccNum>
+    <CorrAccNum>BY88REDJ30121008617010000933</CorrAccNum>
+    <DocCurrCode>933</DocCurrCode>
+    <DocSum>8.51</DocSum>
+    <PayerAccNumErip/>
+    <PayerBicErip/>
+    <BankNameErip/>
+    <DocTakeGive/>
+    <BISSMsgRef>1219110000000128</BISSMsgRef>
+    <ChargesTypeVal>0</ChargesTypeVal>
+    <DocFormCode>36</DocFormCode>
+    <OperFormCode>36</OperFormCode>
+    <SwiftCopy/>
+    <Register/>
+    <MtAttrs/>
+   </CreditDocumentsRow>
+  </CreditDocuments>
+  <SCDBO_DateFrom>01/10/2018</SCDBO_DateFrom>
+  <SCDBO_DateTo>31/12/2018</SCDBO_DateTo>
+ </StatementBy>
+</DOCUMENT>

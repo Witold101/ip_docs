@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <fonts>
+
+        <font metrics-file="allmetrics/arial.xml"
+              kerning="yes" embed-file="fonts/arial.ttf">
+            <font-triplet name="Arial" style="normal" weight="normal"/>
+            <font-triplet name="sans-serif" style="normal" weight="normal"/>
+        </font>
+        <font metrics-file="allmetrics/arialbd.xml"
+              kerning="yes" embed-file="fonts/arialbd.ttf">
+            <font-triplet name="Arialbd" style="normal" weight="bold"/>
+            <font-triplet name="sans-serif" style="normal" weight="bold"/>
+        </font>
+        <font metrics-file="allmetrics/cour.xml"
+              kerning="yes" embed-file="fonts/cour.ttf">
+            <font-triplet name="Courier" style="normal" weight="normal"/>
+            <font-triplet name="monospace" style="normal" weight="normal"/>
+        </font>
+        <font metrics-file="allmetrics/courbd.xml"
+              kerning="yes" embed-file="fonts/courbd.ttf">
+            <font-triplet name="Courierbd" style="normal" weight="bold"/>
+            <font-triplet name="monospace" style="normal" weight="bold"/>
+        </font>
+        <font metrics-file="allmetrics/times.xml"
+              kerning="yes" embed-file="fonts/times.ttf">
+            <font-triplet name="Times" style="normal" weight="normal"/>
+            <font-triplet name="serif" style="normal" weight="normal"/>
+        </font>
+        <font metrics-file="allmetrics\timesbd.xml"
+              kerning="yes" embed-file="fonts/timesbd.ttf">
+            <font-triplet name="Timesbd" style="normal" weight="bold"/>
+            <font-triplet name="serif" style="normal" weight="bold"/>
+        </font>
+
+    </fonts>
+</configuration>

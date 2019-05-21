@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<xsl:stylesheet
+        xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+        xmlns:fo="http://www.w3.org/1999/XSL/Format"
+        version="1.0">
+
+    <xsl:template match="/bookip">
+        <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" font-family="FreeSans">
+            <fo:layout-master-set>
+                <fo:simple-page-master master-name="simpleA4"
+                                       page-height="29.7cm" page-width="21cm"
+                                       margin-top="1cm" margin-bottom="1cm" margin-left="2cm" margin-right="1cm">
+                    <fo:region-body/>
+                </fo:simple-page-master>
+            </fo:layout-master-set>
+            <fo:page-sequence master-reference="simpleA4">
+                <fo:flow flow-name="xsl-region-body">
+                    <xsl:apply-templates/>
+                </fo:flow>
+            </fo:page-sequence>
+        </fo:root>
+    </xsl:template>
+
+    <xsl:template match="heading">
+        <fo:block font-size="medium" text-align="center" font-style="inherit">
+            <xsl:value-of select="lineheader1"/>
+        </fo:block>
+        <fo:block font-size="xx-small" text-align="center">
+            <xsl:value-of select="lineheader2"/>
+        </fo:block>
+    </xsl:template>
+
+    <xsl:template match="part">
+        <fo:block font-size="x-small" text-align="center" font-style="inherit">
+            <xsl:value-of select="linepart1"/>
+        </fo:block>
+        <fo:block font-size="xx-small" text-align="center">
+        <xsl:value-of select="linepart2"/>
+        </fo:block>
+        <fo:block font-size="xx-small" text-align="center" padding-bottom="3px">
+            <xsl:value-of select="linepart3"/>
+        </fo:block>
+    </xsl:template>
+
+    <xsl:template match="tablehead">
+
+        <fo:table table-layout="fixed" width="100%" text-align="center">
+            <fo:table-column column-width="10%"/>
+            <fo:table-column column-width="20%"/>
+            <fo:table-column column-width="15%"/>
+            <fo:table-column column-width="15%"/>
+            <fo:table-column column-width="15%"/>
+            <fo:table-column column-width="10%"/>
+            <fo:table-column column-width="15%"/>
+            <fo:table-body>
+                <fo:table-row background-color="azure">
+                    <fo:table-cell border-style="dashed" number-rows-spanned="2" padding="1px">
+                        <fo:block font-size="xx-small">
+                            <xsl:value-of select="th1"></xsl:value-of>
+                        </fo:block>
+                    </fo:table-cell>
+                    <fo:table-cell border-style="dashed" number-rows-spanned="2" padding="1px">
+                        <fo:block font-size="xx-small" text-align="center">
+                            <xsl:value-of select="th2"/>
+                        </fo:block>
+                    </fo:table-cell >
+                    <fo:table-cell border-style="dashed" number-rows-spanned="2" padding="1px">
+                        <fo:block font-size="xx-small" text-align="center">
+                            <xsl:value-of select="th3"/>
+                        </fo:block>
+                    </fo:table-cell>
+                    <fo:table-cell border-style="dashed" number-columns-spanned="2" padding="1px">
+                        <fo:block font-size="xx-small" text-align="center">
+                            <xsl:value-of select="th4"/>
+                        </fo:block>
+                    </fo:table-cell>
+                    <fo:table-cell border-style="dashed" number-rows-spanned="2" padding="1px">
+                        <fo:block font-size="xx-small" text-align="center">
+                            <xsl:value-of select="th5"/>
+                        </fo:block>
+                    </fo:table-cell>
+                    <fo:table-cell border-style="dashed" number-rows-spanned="2" padding="1px">
+                        <fo:block font-size="xx-small" text-align="center">
+                            <xsl:value-of select="th6"/>
+                        </fo:block>
+                    </fo:table-cell>
+                </fo:table-row>
+
+                <fo:table-row background-color="azure">
+                    <fo:table-cell border-style="dashed" padding="1px">
+                        <fo:block font-size="xx-small" text-align="center">
+                            <xsl:value-of select="th7"/>
+                        </fo:block>
+                    </fo:table-cell>
+                    <fo:table-cell border-style="dashed" padding="1px">
+                        <fo:block font-size="xx-small" text-align="center">
+                            <xsl:value-of select="th8"/>
+                        </fo:block>
+                    </fo:table-cell>
+                </fo:table-row>
+
+            </fo:table-body>
+        </fo:table>
+    </xsl:template>
+
+</xsl:stylesheet>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookip type="Bookip">
+    <heading>
+        <lineheader1>РАЗДЕЛ I</lineheader1>
+        <lineheader2>УЧЕТ, НЕОБХОДИМЫЙ ДЛЯ ОПРЕДЕЛЕНИЯ ВЫРУЧКИ ОТ РЕАЛИЗАЦИИ ТОВАРОВ (РАБОТ, УСЛУГ), ИМУЩЕСТВЕННЫХ ПРАВ И ВНЕРЕАЛИЗАЦИОННЫХ ДОХОДОВ</lineheader2>
+    </heading>
+    <part>
+        <linepart1>ЧАСТЬ I</linepart1>
+        <linepart2>УЧЕТ ВАЛОВОЙ ВЫРУЧКИ</linepart2>
+        <linepart3>год 2018</linepart3>
+    </part>
+
+    <tablehead>
+        <th1>Дата записи</th1>
+        <th2>Наименование документа, его номер и дата</th2>
+        <th3>Содержание операции</th3>
+        <th4>Выручка от реализации товаров</th4>
+        <th5>Внереализа-ционные доходы</th5>
+        <th6>Валовая выручка (графа (далее – гр.)4 – гр.5 + гр.6)</th6>
+        <th7>Всего</th7>
+        <th8>В том числе НДС</th8>
+    </tablehead>
+
+    <table>
+        <thead>
+            <tcell>data</tcell>
+            <tcell>data</tcell>
+            <tcell>data</tcell>
+        </thead>
+        <trow><tcell>data</tcell><tcell>data</tcell><tcell>data</tcell></trow>
+        <trow><tcell>data</tcell><tcell>data</tcell><tcell>data</tcell></trow>
+        <trow><tcell>data</tcell><tcell>data</tcell><tcell>data</tcell></trow>
+        <trow><tcell>data</tcell><tcell>data</tcell><tcell>data</tcell></trow>
+    </table>
+</bookip>

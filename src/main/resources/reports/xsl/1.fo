@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<xsl:stylesheet
+        xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+        xmlns:fo="http://www.w3.org/1999/XSL/Format"
+        version="1.0">
+
+    <xsl:template match="/sonnet">
+        <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" font-family="FreeSans">
+            <fo:layout-master-set>
+                <fo:simple-page-master master-name="simpleA4"
+                                       page-height="29.7cm" page-width="21cm"
+                                       margin-top="2cm" margin-bottom="2cm" margin-left="2cm" margin-right="2cm">
+                    <fo:region-body/>
+                </fo:simple-page-master>
+            </fo:layout-master-set>
+            <fo:page-sequence master-reference="simpleA4">
+                <fo:flow flow-name="xsl-region-body">
+                    <xsl:apply-templates/>
+                </fo:flow>
+            </fo:page-sequence>
+        </fo:root>
+    </xsl:template>
+
+    <xsl:template match="author">
+        <fo:block font-size="x-large" text-align="center">
+            <xsl:value-of select="lastName"/>,<xsl:value-of select="firstName"/>
+            (<xsl:value-of select="yearOfBirth"/>-<xsl:value-of select="yearOfDeath"/>),
+            <fo:inline color="red">
+                    <xsl:value-of select="nationality"/>
+            </fo:inline>
+            <fo:block>
+                <fo:inline>
+                    <fo:leader leader-pattern="dots" leader-length.minimum="100%"/>
+                </fo:inline>
+            </fo:block>
+        </fo:block>
+    </xsl:template>
+
+    <xsl:template match="lines">
+        <xsl:for-each select="line">
+            <fo:block><xsl:value-of select="."/></fo:block>
+        </xsl:for-each>
+    </xsl:template>
+
+</xsl:stylesheet>

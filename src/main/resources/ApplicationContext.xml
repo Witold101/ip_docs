@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd"
+
+       default-lazy-init="true">
+
+    <!--<bean id="invoiceBuy" class="by.vistar.business.InvoiceBuy"/>-->
+
+    <!--<bean id="party" class="by.vistar.entity.Party"-->
+    <!--p:id="125" p:name="PLD-111" p:note="New"-->
+    <!--&gt;-->
+        <!--<property name="id" value="125"/>-->
+        <!--<property name="name" value="PLD 342"/>-->
+        <!--<property name="note" value="Пробная партия"/>-->
+    <!--</bean>-->
+
+</beans>
