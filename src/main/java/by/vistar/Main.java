@@ -18,9 +18,9 @@ import java.net.URI;
 public class Main {
     public static void main(String[] args) {
 //
-//        ParsAbsolutBank parsAbsolutBank = new ParsAbsolutBank();
-//        BankDocPay bankDocPay = parsAbsolutBank.getResult("C:/Users/Witalij/IdeaProjects/comeco_spr/195_Pars.xml");
-//        System.out.println(NalogIP.getNalogIp(bankDocPay));
+    ParsAbsolutBank parsAbsolutBank = new ParsAbsolutBank();
+    BankDocPay bankDocPay = parsAbsolutBank.getResult("C:/Users/Witalij/IdeaProjects/comeco_spr/195_Pars.xml");
+    System.out.println(NalogIP.getNalogIp(bankDocPay));
 
     File fo = new File("./src/main/resources/reports/xsl/bookip.fo");
     File xml = new File("./src/main/resources/reports/xml/bookip.xml");
